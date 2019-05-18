@@ -15,6 +15,8 @@
 | Go to line                                   | Command + L                    |
 | Previous file in tab						   | Command + Shift + \[			|
 | Next file in tab 							   | Command + Shift + \]			|
+| Previous in history file					   | Command + \[					|
+| Next in history file						   | Command + \]					|
 
 </br></br>
 
@@ -29,4 +31,6 @@
 | Comment/uncomment with line comment	       | Command + / 					|
 | Comment/uncomment with block comment	       | Command + Shift + / 			|
 | Reformat code	 	                           | Command + Option + L 			|
-|  |  | 
+| Import class 								   | Option + Enter  				| 
+| Jump by word in line 						   | Option + <- / ->  				| 
+| Jump by start/end line in class 			   | Command + <- / -> 				| 
