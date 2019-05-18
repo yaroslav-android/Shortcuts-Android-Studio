@@ -17,6 +17,7 @@
 | Next file in tab 							   | Command + Shift + \]			|
 | Previous in history file					   | Command + \[					|
 | Next in history file						   | Command + \]					|
+| Documentation								   | F1								|
 
 </br></br>
 
@@ -37,3 +38,4 @@
 | Move single line  			   			   | Option + Shift + Up/ Down 		| 
 | Move method in class			 			   | Command + Shift + Up/ Down 	| 
 | Select code step by step			 		   | Option + Up/ Down 				| 
+| Action menu							 	   | Command + Shift + A 			| 
