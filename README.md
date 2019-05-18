@@ -13,6 +13,8 @@
 | Close active editor tab                      | Command + W                    |
 | Hide active or last active tool window       | Shift + Esc                    |	
 | Go to line                                   | Command + L                    |
+| Previous file in tab						   | Command + Shift + \[			|
+| Next file in tab 							   | Command + Shift + \]			|
 
 </br></br>
 
@@ -27,3 +29,4 @@
 | Comment/uncomment with line comment	       | Command + / 					|
 | Comment/uncomment with block comment	       | Command + Shift + / 			|
 | Reformat code	 	                           | Command + Option + L 			|
+|  |  | 
