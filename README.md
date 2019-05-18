@@ -32,5 +32,8 @@
 | Comment/uncomment with block comment	       | Command + Shift + / 			|
 | Reformat code	 	                           | Command + Option + L 			|
 | Import class 								   | Option + Enter  				| 
-| Jump by word in line 						   | Option + <- / ->  				| 
-| Jump by start/end line in class 			   | Command + <- / -> 				| 
+| Jump by word in line 						   | Option + Left/ Right  			| 
+| Jump by start/end line in class 			   | Command + Left/ Right 			| 
+| Move single line  			   			   | Option + Shift + Up/ Down 		| 
+| Move method in class			 			   | Command + Shift + Up/ Down 	| 
+| Select code step by step			 		   | Option + Up/ Down 				| 
