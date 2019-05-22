@@ -18,6 +18,7 @@
 | Previous in history file					   | Command + \[					|
 | Next in history file						   | Command + \]					|
 | Documentation								   | F1								|
+| Navigate up/down in file					   | fn + Up/ Down					|
 
 </br></br>
 
