@@ -39,4 +39,6 @@
 | Move single line  			   			   | Option + Shift + Up/ Down 		| 
 | Move method in class			 			   | Command + Shift + Up/ Down 	| 
 | Select code step by step			 		   | Option + Up/ Down 				| 
+| Surround with							 	   | Option + Command + T 			| 
+| Select all matches							 	   | Control + Command + G 			| 
 | Action menu							 	   | Command + Shift + A 			| 
